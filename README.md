@@ -1,5 +1,7 @@
 Repositório destinado ao Trabalho 1 da disciplina de Laboratório de Sistemas Operacionais.
+
 Curso: Ciência da Computação, PUCRS
+
 Alunos: Bruno Selau e Luiz Henrique Mosmann
 
 Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
